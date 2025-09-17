@@ -1,0 +1,15 @@
+﻿<Window x:Class="Intro_WPF_CollinAUgustin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Intro_WPF_CollinAUgustin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Background="#FFF9F8F8" BorderBrush="#FF655959" Foreground="#FFE02E2E" VerticalAlignment="Top" HorizontalAlignment="Left">Up Left</Button>
+        <Button Background="#FFF9F8F8" BorderBrush="#FF655959" Foreground="#FF35AD15" VerticalAlignment="Top" HorizontalAlignment="Right">Up right</Button>
+        <Button Background="#FFF9F8F9" BorderBrush="#FF655959" Foreground="#FF6D15AD" VerticalAlignment="Bottom" HorizontalAlignment="Right">Bottom right</Button>
+        <Button Background="#FFF9F8F8" BorderBrush="#FF655959" Foreground="#FF1525AD" VerticalAlignment="Bottom" HorizontalAlignment="Left">Bottom left</Button>
+    </Grid>
+</Window>
