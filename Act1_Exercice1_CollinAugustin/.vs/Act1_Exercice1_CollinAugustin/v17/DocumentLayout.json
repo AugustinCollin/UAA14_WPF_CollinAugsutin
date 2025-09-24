@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A863996-82E3-419F-B562-3D9F95D07729}|Act1_Exercice1_CollinAugustin.csproj|h:\\uaa14_2025.2026\\wpf\\uaa14_wpf_collinaugsutin\\act1_exercice1_collinaugustin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A863996-82E3-419F-B562-3D9F95D07729}|Act1_Exercice1_CollinAugustin.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A863996-82E3-419F-B562-3D9F95D07729}|Act1_Exercice1_CollinAugustin.csproj|h:\\uaa14_2025.2026\\wpf\\uaa14_wpf_collinaugsutin\\act1_exercice1_collinaugustin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A863996-82E3-419F-B562-3D9F95D07729}|Act1_Exercice1_CollinAugustin.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T07:06:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:06:17.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
