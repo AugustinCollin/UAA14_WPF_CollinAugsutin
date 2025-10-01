@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\Act1_Exercice1_CollinAugustin.csproj": {}
+    "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\ACT1_Exercice2_CollinAugustin_Calculette\\WPF_CollinAugustin_Exercice2_Calculette\\WPF_CollinAugustin_Exercice2_Calculette.csproj": {}
   },
   "projects": {
-    "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\Act1_Exercice1_CollinAugustin.csproj": {
+    "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\ACT1_Exercice2_CollinAugustin_Calculette\\WPF_CollinAugustin_Exercice2_Calculette\\WPF_CollinAugustin_Exercice2_Calculette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\Act1_Exercice1_CollinAugustin.csproj",
-        "projectName": "Act1_Exercice1_CollinAugustin",
-        "projectPath": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\Act1_Exercice1_CollinAugustin.csproj",
+        "projectUniqueName": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\ACT1_Exercice2_CollinAugustin_Calculette\\WPF_CollinAugustin_Exercice2_Calculette\\WPF_CollinAugustin_Exercice2_Calculette.csproj",
+        "projectName": "WPF_CollinAugustin_Exercice2_Calculette",
+        "projectPath": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\ACT1_Exercice2_CollinAugustin_Calculette\\WPF_CollinAugustin_Exercice2_Calculette\\WPF_CollinAugustin_Exercice2_Calculette.csproj",
         "packagesPath": "C:\\Users\\240400\\.nuget\\packages\\",
-        "outputPath": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\Act1_Exercice1_CollinAugustin\\obj\\",
+        "outputPath": "H:\\UAA14_2025.2026\\WPF\\UAA14_WPF_CollinAugsutin\\ACT1_Exercice2_CollinAugustin_Calculette\\WPF_CollinAugustin_Exercice2_Calculette\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
